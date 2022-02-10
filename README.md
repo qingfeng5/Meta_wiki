@@ -1,12 +1,18 @@
 # Meta Wiki —— 知识库系统
 ![](https://img.shields.io/badge/license-MIT-000000.svg) ![](https://img.shields.io/badge/language-Java-orange.svg) ![](https://img.shields.io/badge/language-TypeScript-green.svg)
 
-![Fairy2_small](https://github.com/qingfeng5/Meta_wiki//1.png)
+![Image](web/src/assets/meta-wiki.png)
 
 可以在云端存储电子书、文档的知识库 Wiki 系统，一个由 **Spring Boot** + **Vue3** 搭建的全栈项目：
 
 + 前端 Vue CLI  项目搭建
 + 后端 Spring Boot 搭建
+
++ 访问网站：http://www.qingfeng.life/
+
+![Image](web/src/assets/wiki1.png)
+![Image](web/src/assets/wiki2.png)
+![Image](web/src/assets/wiki3.png)
 
 ## 启动方式
 
@@ -25,7 +31,7 @@
   +  {"id":1,"name":"test","password":"test"},
   +  {"id":2,"name":"admin","password":"admin"}
   + ]
-
+![Image](web/src/assets/api_test.png)
 
 + 前端启动方式：
 
@@ -70,7 +76,7 @@
 + 打包部署
 
   + 前端选择serve-prod
-
+![Image](web/src/assets/vue-build.png)
   + 后端选择install
-
+![Image](web/src/assets/java-jar.png)
   
