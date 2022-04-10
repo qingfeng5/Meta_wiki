@@ -8,7 +8,7 @@
 + 前端 Vue CLI  项目搭建
 + 后端 Spring Boot 搭建
 
-+ 访问网站：http://www.qingfeng.life/
++ 访问网站：http://wiki.qingfeng.life/
 
 ![Image](web/src/assets/wiki1.png)
 ![Image](web/src/assets/wiki2.png)
